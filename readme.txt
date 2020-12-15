@@ -15,6 +15,13 @@ Display product attributes as color swatch, button, advanced dropdown or image e
 Display product attributes as color swatch, button, advanced dropdown or image etc.
 
 
+== Screenshots ==
+
+1. screenshot-1.png
+2. screenshot-3.png
+3. screenshot-3.png
+
+
 == Installation ==
 
 1. Upload `user-frontend-elementor` to the `/wp-content/plugins/` directory
