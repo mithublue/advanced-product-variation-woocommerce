@@ -1,4 +1,4 @@
-=== Advanced Product Variation Options for WooCommerce - Display product attributes as color swatch, button, advanced dropdown or image etc ===
+=== Advanced Product Variation Swatches for WooCommerce - Display product attributes as color swatch, button, advanced dropdown or image etc ===
 
 Contributors: cybercraftit
 Tags: color swatch, attribute, WooCommerce, WooCommerce variation, WooCommerce variation swatch, variable, product, variation
