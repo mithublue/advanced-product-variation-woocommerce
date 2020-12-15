@@ -1,29 +1,21 @@
-# README #
+=== Advanced Product Variation Options for WooCommerce - Display product attributes as color swatch, button, advanced dropdown or image etc ===
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Contributors: cybercraftit
+Tags: color swatch, attribute, WooCommerce, WooCommerce variation, WooCommerce variation swatch, variable, product, variation
+Requires at least: 3.0.1
+Tested up to: 5.6
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-### What is this repository for? ###
+Display product attributes as color swatch, button, advanced dropdown or image etc.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+== Description ==
 
-### How do I get set up? ###
+Display product attributes as color swatch, button, advanced dropdown or image etc.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
+== Installation ==
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+1. Upload `user-frontend-elementor` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
