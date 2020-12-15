@@ -94,7 +94,7 @@ class PVWC_Attribute {
      */
     function get_attribute_types() {
         $types = [];
-        $types['image'] = __( 'Image', 'pvwc' );
+        //$types['image'] = __( 'Image', 'pvwc' );
         $types['button'] = __( 'Button', 'pvwc' );
         $types['color'] = __( 'Color', 'pvwc' );
         $types['advanced-select'] = __( 'Advanced Select', 'pvwc' );
