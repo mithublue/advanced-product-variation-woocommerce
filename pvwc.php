@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Product Variation for WooCommerce
+ * Plugin Name:       Advanced Product Variation Swatches for WooCommerce
  * Description:       Display product attributes as color swatch, button, advanced dropdown or image etc.
  * Author:            CyberCraft
  * Author URI:
@@ -13,7 +13,7 @@
 define('PVWC_NAME', 'Backend and Waitlist for WooCommerce');
 define('PVWC_ROOT', dirname(__FILE__));
 define('PVWC_PLUGIN_FILE', __FILE__);
-define('PVWC_PLUGIN_BASENAME', plugin_basename(__FILE__)); 
+define('PVWC_PLUGIN_BASENAME', plugin_basename(__FILE__));
 define('PVWC_PLUGIN_PATH', plugin_dir_path(__FILE__));
 define('PVWC_PLUGIN_URL', plugins_url('/', __FILE__));
 define('PVWC_ASSET_PATH', PVWC_PLUGIN_PATH . '/assets');
