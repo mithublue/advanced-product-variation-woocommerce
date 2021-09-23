@@ -4,7 +4,7 @@
  * Description:       Display product attributes as color swatch, button, advanced dropdown or image etc.
  * Author:            CyberCraft
  * Author URI:
- * Version:           1.0
+ * Version:           1.0.1
  * Text Domain:       pvwc
  * Domain Path:       /languages/
  * License:           GPLv2 or later (license.txt)
